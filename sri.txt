@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8">
+<passenger-info>
+<firstname>suri</firstname>
+<lastname>roy</lastname>
+<from>hyd</from>
+<to>bhnj</to>
+<journeydate>23-july-20</journeydate>
+<trainnumber>huhhii</trainunmber>
+</passenger-info>
